@@ -1,0 +1,4 @@
+interface:
+  display_name: "Today-Only Deal Sniper"
+  short_description: "Evidence-first same-day Madrid plans with verified deals, expiries, and walking times"
+  default_prompt: "Use $today-only-deal-sniper to build a same-day deal plan around Callao with citations, verified expiries, exact discounts, walking times, and a copy-paste-ready shortlist. Prefer time-exclusive items first, then strong standing deals with complete fields."
